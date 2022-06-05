@@ -1,3 +1,3 @@
 # iCoder
 
-Site is live at https://ayush-mahariya.github.io/HomyBites/
+Site is live at https://ayush-mahariya.github.io/iCoder/
